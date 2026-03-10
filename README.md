@@ -133,4 +133,5 @@ Student projects & mini projects
 Pranay Vishwanath Jadhao
 
 Final Year – Electronics & Telecommunication
+
 Aspiring Software Developer
