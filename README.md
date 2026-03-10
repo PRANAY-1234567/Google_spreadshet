@@ -43,6 +43,7 @@ google-auth-oauthlib
 google-api-python-client
 
 📦 Installation
+
 1️⃣ Clone the repository
 git clone https://github.com/your-username/google-sheets-manager.git
 cd google-sheets-manager
