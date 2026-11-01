@@ -83,5 +83,4 @@ class GoogleSheetsManager:
             range=range_name
         ).execute()
 
-        return result.get('values', [])
-        
+        return result.get('values', [])        
