@@ -1,5 +1,3 @@
-
-
 📊 Google Sheets Manager using Python
 
 This project provides a Python class to authenticate with the Google Sheets API and perform common operations such as:
