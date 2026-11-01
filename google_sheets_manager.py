@@ -84,3 +84,4 @@ class GoogleSheetsManager:
         ).execute()
 
         return result.get('values', [])
+        
